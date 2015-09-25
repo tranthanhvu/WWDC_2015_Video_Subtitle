@@ -1,3 +1,26 @@
+# Translating to English (I used google translation to do it, I don't understand china language)
+
+##WWDC 2015 English subtitles
+
+iOS developer of the Spring Festival , and I created this routine Repo, in the next few days will update all WWDC 2015 video subtitles. Fetch subtitle file from the Apple official .
+
+Update schedule :
+1. Update to 40 , total 105 ( 2015-06-20 )
+2. Update to 85 , total 105 , the remaining 20 ( 2015-06-21 )
+3. Update to 89 , total 105 , and the remaining 16 ( 2015-06-22 )
+4. Update to 96 , total 105 , and the remaining 9 ( 2015-06-23 )
+5. Update to 104 , total 105 , and the remaining 1 ( 2015-06-25 )
+5. Update All 105 ( 2015-07-05 )
+
+For ease of use , subtitle files exist in `subtitles/HD` and `subtitles/SD` folder, the contents of two directories under the same file , but a different file name , please be free to choose according to their corresponding subtitle file to download video formats.
+
+If you want to download or update your own subtitle files, you can install [`Node.js`](https://nodejs.org/) environment and then to install depend on the implementation of `npm install` at the root project , and then execute `npm start` to run the downloaded script.
+
+[WWDC 2014 English subtitles] (https://github.com/qiaoxueshi/WWDC_2014_Video_Subtitle)  
+[WWDC 2013 English subtitles] (https://github.com/qiaoxueshi/WWDC_2013_Video_Subtitle)
+
+# Origin Document
+
 ##WWDC 2015 英文字幕
 
 iOS 开发者的春节到了，我也例行的创建了这个 Repo，在未来数日内会更新所有 WWDC 2015 的视频字幕。 字幕文件抓取自苹果官方。
